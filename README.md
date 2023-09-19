@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is William Gulick. I'm a computer simulations and games student studying video game design
+
 <!--
 **KeklordNappa/KeklordNappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
