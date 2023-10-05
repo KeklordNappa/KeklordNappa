@@ -19,7 +19,6 @@ Currently studying at the University of Tulsa
 * Game Scripting (C#, GDScript)
 * Level Design
 * Combat System Design
-* Game Design
 
 <!--
 **KeklordNappa/KeklordNappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
