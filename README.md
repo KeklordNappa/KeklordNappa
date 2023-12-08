@@ -1,6 +1,6 @@
-### Hi there 👋
+### Welcome!
 
-My name is William Gulick. I'm a computer simulations and games student studying video game design. It's my dream to take these lessons and create positive, memorable experiences for whoever finds my work.
+My name is William. I'm a computer simulations and games student studying video game design. It's my dream to take the lessons I'm learning now and create positive, memorable experiences for whoever finds my work.
 
 Currently studying at the University of Tulsa
 
@@ -16,9 +16,9 @@ Currently studying at the University of Tulsa
 * 3D Modeling (Blender)
 * Krita
 * Medibang Paint
-* Game Scripting (C#, GDScript)
 * Level Design
 * Combat System Design
+* Interpersonal Communication
 
 <!--
 **KeklordNappa/KeklordNappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
