@@ -1,6 +1,6 @@
 ### Welcome!
 
-My name is William. I'm a computer simulations and games student studying video game design. It's my dream to take the lessons I'm learning now and create positive, memorable experiences for whoever finds my work.
+My name is William. I'm a computer simulations and games student studying game design and development. It's my dream to take the lessons I'm learning now to create positive, memorable experiences for whoever finds my work, and to tell lasting stories through the medium of video games.
 
 Currently studying at the University of Tulsa
 
