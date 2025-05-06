@@ -8,7 +8,8 @@ Currently studying at the University of Tulsa
 ==============
 * Unity Engine
 * Godot Engine
-* C# Unity Development
+* C#
+* Java
 * GDScript (Godot-specific language)
 * Visual Studio
 * Microsoft Office Suite
