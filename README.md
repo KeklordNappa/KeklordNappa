@@ -1,25 +1,27 @@
 ### Welcome!
 
-My name is William. I'm a computer simulations and games student studying game design and development. It's my dream to take the lessons I'm learning now to create positive, memorable experiences for whoever finds my work, and to tell lasting stories through the medium of video games.
+My name is William, and I'm an independent video game and simulation developer. I have experience in almost every development role on a game and simulation team, including full-stack development, systems design, graphics design, UI/UX, and narrative design. I have contributed to multiple games in the past as a programmer and game designer, such as [_Cavitation_](https://globalgamejam.org/games/2025/cavitation-2)_,_ made for Global Game Jam 2025. I am currently working on an unrevealed indie game on a small team of industry newcomers as the lead programmer.
 
-Currently studying at the University of Tulsa
+Graduate of the University of Tulsa, B.Sc. in Computer Simulations and Gaming.
 
 **My Skills**
 ==============
 * Unity Engine
+* Unreal Engine
 * Godot Engine
-* C#
+* C#/C++
 * Java
-* GDScript (Godot-specific language)
 * Visual Studio
 * Microsoft Office Suite
 * Digital Illustration
-* 3D Modeling (Blender)
-* Krita
-* Medibang Paint
+* Blender
+* Solidworks
+* Adobe Photoshop
 * Level Design
-* Combat System Design
-* Interpersonal Communication
+* UI/UX
+* Game System Design
+* Cross-team Communication
+* Small Team Management
 
 <!--
 **KeklordNappa/KeklordNappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
