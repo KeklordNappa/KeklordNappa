@@ -1,6 +1,6 @@
 ### Welcome!
 
-My name is William, and I'm an independent video game and simulation developer. I have experience in almost every development role on a game and simulation team, including full-stack development, systems design, graphics design, UI/UX, and narrative design. I have contributed to multiple games in the past as a programmer and game designer, such as [_Cavitation_](https://globalgamejam.org/games/2025/cavitation-2)_,_ made for Global Game Jam 2025. I am currently working on an unrevealed indie game on a small team of industry newcomers as the lead programmer.
+My name is William, and I'm an independent, full-stack video game and simulation developer. I have experience in almost every development role on a game and simulation team, including front and back-end programming, systems design, graphics design, UI/UX, and narrative design. I have contributed to multiple games in the past as a programmer and game designer, such as [_Cavitation_](https://globalgamejam.org/games/2025/cavitation-2)_,_ made for Global Game Jam 2025. I am currently working on an unrevealed indie game on a small team of industry newcomers as the lead programmer.
 
 Graduate of the University of Tulsa, B.Sc. in Computer Simulations and Gaming.
 
