@@ -5,7 +5,8 @@ My name is William. I'm an independent, full-stack video game and simulation dev
 Graduate of the University of Tulsa, B.Sc. in Computer Simulations and Gaming. Minors in Computer Science and Art.
 
 ## What I'm working on now
-A special, super secret video game! It won't be a secret for long, though, so check back soon!
+- Small-scale modular systems for use in larger projects
+- A special, super secret video game! It won't be a secret for long, though, so check back soon!
 
 **My Skills**
 ==============
